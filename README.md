@@ -56,7 +56,7 @@ Starting to install active directory on the Domain Controller.
 <br />
 
 <p>
-<img src="https://imgur.com/BX3dMs9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/dA5btRN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Adding a new forest (mydomain.com).
@@ -72,7 +72,7 @@ Creating a new organizational unit in active directory.
 <br />
 
 <p>
-<img src="https://imgur.com/YOaQQrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/0W0xlGB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Creating new employee Jane Admin .
@@ -120,10 +120,10 @@ Using PowerShell to create multiple new users.
 <br />
 
 <p>
-<img src="https://imgur.com/LEvdugx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6TVqy75.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Logged into client-1 successfully with one of the random users created in powershell.
 </p>
 <br />
 
