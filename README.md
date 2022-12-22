@@ -72,50 +72,50 @@ Creating a new organizational unit in active directory.
 <br />
 
 <p>
-<img src="https://imgur.com/LEvdugx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/YOaQQrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/LEvdugx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Creating new employee Jane Admin .
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/LEvdugx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gSNATKv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://imgur.com/LEvdugx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Adding new employee (Jane) to domain admins security group .
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/LEvdugx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/vUrrbm6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Setting Client-1 DNS settings to Domain controllers private IP address .
 </p>
 <br />
 
 <p>
-<img src="https://imgur.com/LEvdugx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/4egUQHl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Client -1 successfully joined to the domain.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/BeDhAid.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Allowing all domain (non-administrative users) to remotely access client-1  .
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/QYs4eYD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Using PowerShell to create multiple new users.
 </p>
 <br />
 
