@@ -88,7 +88,7 @@ Adding new employee (Jane) to domain admins security group .
 <br />
 
 <p>
-<img src="https://imgur.com/vUrrbm6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/riWVTnG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Setting Client-1 DNS settings to Domain controllers private IP address .
