@@ -80,7 +80,7 @@ Creating new employee Jane Admin .
 <br />
 
 <p>
-<img src="https://imgur.com/gSNATKv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/J3TZ9OY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Adding new employee (Jane) to domain admins security group .
