@@ -56,7 +56,7 @@ Starting to install active directory on the Domain Controller.
 <br />
 
 <p>
-<img src="https://imgur.com/dA5btRN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/FRJluVK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Adding a new forest (mydomain.com).
